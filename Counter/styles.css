@@ -1,0 +1,32 @@
+html{
+    width: 100%;
+    position: relative;
+}
+body {
+    width: 100%;
+}
+#outerBox{
+    width: 60%;
+    height: 300px;
+    background-color: blue;
+    padding: 10% 10%;
+    margin: 0 auto;
+}
+ul.buttons{
+    width: 10%;
+    margin: 0 auto;
+}
+ul.buttons li{
+    display: block;
+    float: left
+}
+#display{
+    height: 60%;
+    padding: 10%;
+    width: 60%;
+    margin: 0 auto;
+    background-color: white;
+    text-align: center;
+    line-height: 100%;
+    font-size: 5em;
+}
